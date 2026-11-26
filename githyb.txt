@@ -1,0 +1,33 @@
+# Compiled binaries and build artifacts
+erl_hub
+erl_hub.exe
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.d
+*.pdb
+*.ilk
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Runtime binary audit and temporary files (keep data/ directory via .gitkeep)
+data/*.bin
+data/*.tmp
+!data/.gitkeep
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
