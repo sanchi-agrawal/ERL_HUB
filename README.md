@@ -1,8 +1,8 @@
 # ERL-HUB — Post-Earthquake Multi-Agency Emergency Relief Logistics Hub
 
 **Course:** CIC-211 Object-Oriented Programming  
-**Author:** _<your name, roll number, section>_  
-**Submission date:** _<date>_
+**Author:** Sanchi Agrawal, 00914802725, Yashika, 00514802725
+**Submission date:** 27 Nov 2026
 
 ## Problem Statement
 Following a major earthquake, relief agencies must coordinate vehicles, critical supplies, missions, routes and audit records from a field distribution hub.
